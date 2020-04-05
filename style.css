@@ -19,7 +19,7 @@ body {
     font-size: 18px;
     font-family: 'Lato', sans-serif;
     display: block;
-    margin: 15% auto 0 80%;
+    margin: 8% auto 0 80%;
 }
 #gen_button:focus, #gen_button1 {
     outline: none;
