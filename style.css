@@ -10,32 +10,16 @@ body {
 }
 
 #gen_button {
-    font-family: 'Lato', sans-serif;
-    color: white;
     font-size: 18px;
-    background-color: rebeccapurple;
+    font-family: 'Lato', sans-serif;
     display: block;
-    height: 100px;
-    width: auto;
-    padding: 5px 25px;
-    margin: 35vh auto 0 auto;
-    border: 1px solid black;
-    border-radius: 20px;
-    cursor: pointer;
+    margin: 40vh auto 0 auto;
 }
 #gen_button1 {
+    font-size: 18px;
     font-family: 'Lato', sans-serif;
-    color: white;
-    font-size: 16px;
-    background-color: rebeccapurple;
     display: block;
-    height: 90px;
-    width: auto;
-    padding: 5px 25px;
-    margin: 5vh auto 0 70%;
-    border: 1px solid black;
-    border-radius: 20px;
-    cursor: pointer;
+    margin: 15% auto 0 80%;
 }
 #gen_button:focus, #gen_button1 {
     outline: none;
